@@ -5,6 +5,6 @@ tqdm==4.34.0
 matplotlib==3.0.1
 scikit_image==0.15.0
 scipy==1.1.0
-PyYAML==5.3
+PyYAML==5.4
 scikit_learn==0.22.1
 skimage==0.0
